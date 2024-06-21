@@ -162,4 +162,3 @@ def main():
 # Chamada da função principal para iniciar o programa
 if __name__ == "__main__":
     main()
-
